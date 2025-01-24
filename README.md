@@ -1,4 +1,4 @@
-# Gin-API Project
+# Doc-API Project
 
 Welcome to the API Project! This project is built using PostgreSQL and the Gin framework for Go and provides a simple RESTful API with basic authentication and document management features.
 
